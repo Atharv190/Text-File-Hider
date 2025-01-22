@@ -8,17 +8,16 @@ Features
 
 How It Works
 Encrypt a File:
-
 Select a text file from your system.
 Enter a password to encrypt the file.
 The file will be converted into a secure, unreadable format.
-Decrypt a File:
 
+Decrypt a File:
 Choose the encrypted file.
 Enter the correct password to decrypt it.
 The file will be restored to its original readable format.
+
 Prerequisites
 Make sure you have the following installed:
-
 Java Development Kit (JDK) 8 or later.
 Command Line Interface or an IDE like IntelliJ IDEA, Eclipse, or NetBeans.
