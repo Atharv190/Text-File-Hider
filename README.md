@@ -17,7 +17,3 @@ Choose the encrypted file.
 Enter the correct password to decrypt it.
 The file will be restored to its original readable format.
 
-Prerequisites
-Make sure you have the following installed:
-Java Development Kit (JDK) 8 or later.
-Command Line Interface or an IDE like IntelliJ IDEA, Eclipse, or NetBeans.
